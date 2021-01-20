@@ -9,12 +9,20 @@
       "last_modified": "2021-01-20T18:05:33-03:00"
     },
     {
+      "path": "dataviz.html",
+      "title": "Dataviz",
+      "description": "A picture is worth a thousand words\n",
+      "author": [],
+      "contents": "\r\nA businnes report\r\nA challenge regarding businnes dashboards is pursue an equlibrium between simplicity (easy to read) and deepness (in order to generate depth insights). The storytelling, ie, the pathway the analysis is shown plays an fundamental role here.\r\nSome panels of a long analysis, going from general to specifics. Developed using R and Google Data Studio\r\n\r\n\r\n\r\nData/ink ratio\r\ndhuhduebhfbuehfubehbfuedbhuedhfe\r\nPublic service\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-01-20T20:33:40-03:00"
+    },
+    {
       "path": "index.html",
       "title": "Guto Barros Portfolio",
       "description": "Welcome to the website. I hope you enjoy it!\n",
       "author": [],
-      "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-01-20T18:05:33-03:00"
+      "contents": "\r\nThank you for coming here. I won’t take much of your time. In short, I am a graphic designer and a data scientist. As a data guy, I am trying to discover the relationships on phenomena under data. As a designer, I would like to show them in a clear and pleasant aesthetics.\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-01-20T18:43:36-03:00"
     }
   ],
   "collections": []
